@@ -13,7 +13,7 @@ Cette fiction a été écrite et développée dans le cadre du cours du Fiction 
 
 Le contexte historique des vestales a été retrasncrit de manière assez fidèle dans cette histoire, cependant certains éléments ont été modifiés dans un but stylistique.
 
-**Quelques différences ou similarités avec entre la fiction et l'histoire : **
+**Quelques différences ou similarités avec entre la fiction et l'histoire :**
 
 Pour les différences, en réalité les vestales restaient 30 ans dans leur vocation, 10 pour apprendre le métier, 10 à pratiquer et 10 à enseigner. J'ai préféré altérer légèrement les rôles, dans la fiction l'apprentissage se fait durant une dizaine d'années également, mais ensuite elles deviennent tutrices, puis vestales. J'ai allongé la durée pour créer un effet choc chez le lecteur et Lélia. Pour finir, il n'y avait pas de professeur principal, mais des tutrices plus âgées, étant donné que j'ai rajeuni légèrement les tutrices, j'ai préféré ajouter une figure d'autorité externe. 
 
