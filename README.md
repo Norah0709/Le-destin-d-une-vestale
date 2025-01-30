@@ -9,10 +9,6 @@ Faites attention à vous et à vos proches, chaque choix compte.
 
 Cette fiction a été écrite et développée dans le cadre du cours du Fiction Interactive dispensé par Isaac Pante à l'Université de Lausanne.
 
-**_Illustration du premier passage du jeu:_**
-
-<img width="600" alt="Capture d’écran 2025-01-12 à 14 14 29" src="https://github.com/user-attachments/assets/23197218-6e21-42d2-9fad-6c1b273a432c" />
-
 **_Contexte historique et précisions_**
 
 Le contexte historique des vestales a été retrasncrit de manière assez fidèle dans cette histoire, cependant certains éléments ont été modifiés dans un but stylistique.
@@ -26,4 +22,9 @@ Pour les similarités, j'ai gardé l'âge d'entrée, qui est de 6 à 10 ans. La 
 **_Quelques liens si vous vous intéressez aux vestales._**
 
 https://fr.wikipedia.org/wiki/Vestale 
+
 https://www.nationalgeographic.fr/histoire/les-vestales-protectrices-du-feu-sacre-de-rome
+
+**_Illustration du premier passage du jeu:_**
+
+<img width="600" alt="Capture d’écran 2025-01-12 à 14 14 29" src="https://github.com/user-attachments/assets/23197218-6e21-42d2-9fad-6c1b273a432c" />
